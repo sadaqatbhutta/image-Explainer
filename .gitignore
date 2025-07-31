@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore images
+*.jpg
+*.png
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore database files
+*.sqlite3
