@@ -4,7 +4,7 @@ import google.generativeai as genai
 from db import save_analysis, save_names
 
 # Configure Gemini API key
-genai.configure(api_key="AIzaSyCR9ocWQa0aknbGJsUTSgJ8qbwCJ4UTcpY")
+genai.configure(api_key="Add your keys")
 
 def get_image_description(image_path):
     try:
